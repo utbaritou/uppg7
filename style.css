@@ -1,0 +1,16 @@
+body {
+  background-color: lightgrey
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+  color: darkblue
+}
+
+a:hover {
+  color: lightblue;
+  text-decoration: underline;
+}
